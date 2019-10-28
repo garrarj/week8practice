@@ -1,0 +1,35 @@
+/* 
+    *****Practice Task - Variables*****
+    - Create three color variables using HEX
+        1. A neautral blue 
+        2. A vibrant red
+        3. A calming green
+*/
+
+
+
+/* 
+    *****Practice Task - Button*****
+    - Ensure that the sign up button is aligned to the centre of the page
+    - Give the container plenty of padding between the image above and the text below
+    - Make the button very large. It should be one of the first things the user sees when they load up the page
+    - Make the button's text large and bold and remove any default text decoration (e.g. underlining, etc.)
+    - Give the button rounded corners with a radius of 15px or more
+    - colours:
+        - make the button text white
+        - make the button background colour the neutral blue from the variable above
+        - using the 'hover' pseudo class, have the button's background colour change to the calming green from the variable above  
+*/
+
+
+
+/* 
+    *****Practice Task - Form*****
+    - Using Flexbox, ensure that the form is stacked vertically into a single column
+    - Make sure that the form never takes up more than half the width of the viewport
+    - Give ample spacing between the form fields (to ensure that the form is quickly and easily understood by the user)
+    - Set the colour of the form inputs' borders to the neutral blue from the variable above
+    - Set the labels' font sizes to be smaller than that of the placeholder text
+    - Using a pseudo-class, change the form inputs' border colours to the calming green from the variable above whenever the user begins to interact (e.g. typing) with an input
+    - using an attribute selector, change the border color for any required inputs using the vibrant red from the variable above
+*/
